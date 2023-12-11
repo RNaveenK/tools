@@ -1,0 +1,14 @@
+.textarea {
+	height:250px;
+	width:650px;
+}
+
+.input-regex{
+	height:65px;
+	width:auto;
+}
+
+.banner{
+	background-color: aqua;
+	font-style: normal;
+}
